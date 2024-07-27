@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whisplnspace" alt="whisplnspace" /></a> </p>
 
-- 🔭 I’m currently working on AI-ChatBot's
+- 🔭 I’m currently working on **AI-ChatBot's**
 
 - 🌱 I’m currently learning **LLMs,Generative-AI,Machine Learning**
+
+- 💬 Ask me about **Generative AI**
 
 - 📫 How to reach me **mondalmrinal39@gmail.com**
 
