@@ -26,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whisplnspace&show_icons=true&theme=dark&locale=en&layout=compact" alt="whisplnspace" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whisplnspace&show_icons=true&locale=en" alt="whisplnspace" /></p>
+<h3 align="center">Thank you once again, and happy coding!</h3>
