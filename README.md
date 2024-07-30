@@ -1,6 +1,6 @@
 
 <h1 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello"> 👋, I'm Mrinal Mondal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" width="1000">
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whisplnspace&label=Profile%20views&color=0e75b6&style=flat" alt="whisplnspace" /> </p>
