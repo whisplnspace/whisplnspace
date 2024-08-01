@@ -7,6 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whisplnspace&label=Profile%20views&color=0e75b6&style=flat" alt="whisplnspace" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whisplnspace" alt="whisplnspace" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
 
 - 🔭 I’m currently working on **AI-ChatBot's**
 
