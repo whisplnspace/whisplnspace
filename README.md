@@ -5,7 +5,7 @@
 <p align="Center"></p>
 <h3 align="center">Mario is busy with work 🤖</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whisplnspace&label=Profile%20views&color=0e75b6&style=flat" alt="whisplnspace" /> </p>
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whisplnspace" alt="whisplnspace" /></a> </p>
 
 - 🔭 I’m currently working on **AI-ChatBot's**
@@ -15,7 +15,8 @@
 - 💬 Ask me about **Generative AI**
 
 - 📫 How to reach me **mondalmrinal39@gmail.com**
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpnYzd0M2pqcml3bTZjYXhuMmZnbGNkaGVnZjg4Ym15Z2dxNHpzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gHnz7kjz0SSHutFezl/giphy.gif" width="400">
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
