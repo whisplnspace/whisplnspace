@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello"> 👋, I'm Mrinal Mondal <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhqb3Y3OHYyeXN0cDg4dmhvbmx3cmNubm04c3QxamtyMXEzbTB1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wRmOK4J2261gI/giphy.gif" width="100"</h1>
+<h1 align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="100" alt="animated hello"> 👋, I'm @whisplnspace <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhqb3Y3OHYyeXN0cDg4dmhvbmx3cmNubm04c3QxamtyMXEzbTB1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wRmOK4J2261gI/giphy.gif" width="100"</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" width="1000">
 <p align="Center"></p>
